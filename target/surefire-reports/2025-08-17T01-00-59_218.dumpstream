@@ -1,0 +1,5 @@
+# Created at 2025-08-17T01:00:59.455
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Automation_Workspace\RestAssuredAPI_BDDFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
